@@ -1,6 +1,5 @@
 <div style="text-align: center">
-  <h1>OrgStack</h1>
-  De-risk your data pipelines.
+  <img src="img/transparent_logo_cropped.png" height="70px" />
 </div>
 <hr />
 
